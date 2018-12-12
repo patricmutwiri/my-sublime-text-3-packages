@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+<!--
+/*
+    * Developer: Patrick Mutwiri
+    * Email: patwiri@gmail.com
+    * GIT: https://github.com/patricmutwiri
+    * Twitter: https://twitter.com/patric_mutwiri
+    * Call: +254727542899
+    * Visit: http://patric.xyz
+*/
+-->
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>hsnippet</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.html</scope>
+</snippet>
