@@ -5,14 +5,13 @@
 	],
 	"installed_packages":
 	[
-		"A File Icon",
-		"Laravel Blade Highlighter",
+		"BracketHighlighter",
+		"Emmet",
+		"JavaIME",
+		"JavaImports",
 		"Material Theme",
 		"Package Control",
-		"QML",
 		"SublimeLinter",
-		"SublimeLinter-php",
-		"Theme - Monokai Pro",
-		"Vue Syntax Highlight"
+		"SublimeLinter-php"
 	]
 }

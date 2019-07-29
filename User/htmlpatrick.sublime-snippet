@@ -1,0 +1,26 @@
+<snippet>
+	<content><![CDATA[
+        <!--
+            * @author/Developer: Patrick Mutwiri
+            * Email: patwiri@gmail.com
+            * @link/GIT: https://github.com/patricmutwiri
+            * @link/Twitter: https://twitter.com/patric_mutwiri
+            * Call: +254727542899
+            * @link/Site: http://patric.xyz
+            **************************************************************
+            |       *******       **      ************ ************      |
+            |       *******       **      ************ ************      |
+            |       ***  **     **  **         ***     ***      ***      |
+            |       ***  **     **  **         ***     ***      ***      |
+            |       *******    ********        ***     ***      ***      |
+            |       *******    ********        ***     ***      ***      |
+            |       ***       **      **       ***     ************      |
+            |       ***       **      **       ***     ************      |
+            **************************************************************
+        -->
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>htmlpatrick</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php, source.python, source.htm*</scope>
+</snippet>
